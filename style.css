@@ -42,25 +42,31 @@ section {
 }
 
 article {
-    margin: 30px 5px 5px 5px;
+    margin: 30px 5px 10px 5px;
     padding: 15px;
     width: 455px;
     height:  165px;
 }
 
 h1{
-
+    margin: 0px 10px, 10px 10px;
+    padding: 10px;
+    height: 30px;
+    width: 435px;
 }
 
 p {
-
+    margin: 0px 10px, 10px 10px;
+    padding: 10px;
+    height: 30px;
+    width: 435px;
 }
 
 aside {
     width: 355px;
     height: 250px;
     float: left;
-    margin: 10px;
+    margin: 10px 10px 20px 10px;
     padding: 30px 30px 5px 30px;
 
 }
